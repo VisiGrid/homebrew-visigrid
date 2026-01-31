@@ -1,8 +1,8 @@
 cask "visigrid" do
   version "0.4.0"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "f4c9a696619b307f103d885a5682c4deda4735c9b09d149a454f7943df4e583f"
 
-  url "https://github.com/VisiGrid/VisiGrid/releases/download/v#{version}/VisiGrid-#{version}-macOS-universal.dmg"
+  url "https://github.com/VisiGrid/VisiGrid/releases/download/v#{version}/VisiGrid-macOS-universal.dmg"
   name "VisiGrid"
   desc "Fast, native spreadsheet with GPU-accelerated rendering"
   homepage "https://visigrid.com"

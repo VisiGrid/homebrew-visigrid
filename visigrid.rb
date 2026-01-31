@@ -4,7 +4,7 @@
 class Visigrid < Formula
   desc "The spreadsheet that behaves like code"
   homepage "https://visigrid.app"
-  version "0.3.5"
+  version "0.4.0"
   license "AGPL-3.0-only"
 
   on_macos do
