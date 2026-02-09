@@ -15,6 +15,7 @@ cask "visigrid" do
   depends_on macos: ">= :monterey"
 
   app "VisiGrid.app"
+  binary "#{appdir}/VisiGrid.app/Contents/MacOS/vgrid"
 
   zap trash: [
     "~/.config/visigrid",
